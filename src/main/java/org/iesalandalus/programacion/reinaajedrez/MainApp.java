@@ -16,7 +16,6 @@ public class MainApp {
 			operacion = Consola.elegirOpcionMenu();
 			ejecutarOpcion(operacion);
 		}
-		Consola.Despedirse();
 	}
 	
 	public static void crearReinaDefecto() {
