@@ -1,3 +1,4 @@
+//MANUEL_CORREDERA_SALDAÑA
 package org.iesalandalus.programacion.reinaajedrez;
 
 public enum Color {
